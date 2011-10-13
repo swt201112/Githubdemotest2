@@ -1,7 +1,7 @@
 
 public class Car {
 
-	private String licensePlate;
+	protected String licensePlate;
 	private String owner;
 	private String address;
 	private String color;
