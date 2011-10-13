@@ -13,6 +13,7 @@ public class Test {
 		Car car2 = new Car("K-481", "Tick Duck", "Kölnstraße 1","red");
 		Car car3 = new Car("BN-123", "Trick Duck", "Kölnstraße 1","yellow");
 		Car car4 = new Car("BN-123", "Track Duck", "Kölnstraße 1","pink");
+		Car SUV = new Car("BN-1235", "Dagobert Duck", "Kölnstraße 1","brown");
 		
 		// Register at TrafficOffice
 		TrafficOffice.registerCar(car0);
